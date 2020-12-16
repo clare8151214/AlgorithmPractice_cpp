@@ -1,1 +1,2 @@
-# AlgorithmPractice_cpp
+# AlgorithmPractice_cpp 
+# for CLion
